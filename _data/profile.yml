@@ -37,7 +37,7 @@ short_bio: |
     <a href="https://xiong-group.com/" target="_blank">Prof. Ze Xiong</a>.
     I also had the opportunity to work with
     <a href="https://linhaisong.lab.westlake.edu.cn/" target="_blank">Prof. Haisong Lin</a>
-    at  <a href="https://www.shanghaitech.edu.cn/eng/" target="_blank">Westlake University</a>.
+    at  <a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>.
     I am especially interested in smart material development, device design and algorithm development used for human-machine interaction and healthcare monitoring.
   
   </p>
@@ -68,9 +68,6 @@ education:
    date: Jul. 2025 - Aug. 2025
    
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding student, ShanghaiTech University
+  date: Dec. 2025
+
