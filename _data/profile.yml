@@ -43,7 +43,7 @@ short_bio: |
   </p>
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Shot at Hollywood, Los Angeles, CA.
+  Shot in Hollywood, Los Angeles, CA.
 
 education:
 - name: University of Illinois at Urbana-Champaign
@@ -57,12 +57,16 @@ education:
   position: B.S. in Material Science and Engineering, Minor in Electrical Engineering and Computer Science
   date: Sep. 2023 - Jul. 2027
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
-
+ experience:
+ - name: ShanghaiTech University
+   logo: /assets/images/badges/PKU_red.png
+   position: Undergraduate Research Intern
+   date: Jan. 2025 - present
+ - name: Westlake University
+   logo: /assets/images/badges/PKU_red.png
+   position: Undergraduate Research Intern
+   date: Jul. 2025 - Aug. 2025
+   
 awards:
 - name: Award Name 2
   date: 2024
