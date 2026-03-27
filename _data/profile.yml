@@ -20,30 +20,26 @@ github: "SYChenwsirene"
 orcid: 0009-0004-3403-3502
 
 short_bio_text_justify: false
-short_bio: >-
+short_bio: |
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    <p>
-I'm currently a senior undergraduate student at 
-<a href="https://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>,
-majoring in Material Science and Engineering, minoring in EECS,
-and was an exchange student at 
-<a href="https://illinois.edu/" target="_blank">UIUC</a>, majoring in Electrical and Computer Engineering.
-</p>
-
-<p>
-My research interests include bioelectronics, wearable medical devices, flexible electronics, and AI-enabled biomedical devices. 
-My research journey began at ShanghaiTech University, 
-where I was advised by 
-<a href="https://xiong-group.com/" target="_blank">Prof. Ze Xiong</a>. 
-I also had the opportunity to work with 
-<a href="导师主页链接" target="_blank">Prof. Haisong Lin</a> at Westlake University. 
-I am especially interested in developing low-cost, high-resolution, and customizable biomedical systems for human-machine interaction and healthcare applications.
-</p>
+    I'm currently a senior undergraduate student at
+    <a href="https://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>,
+    majoring in Materials Science and Engineering, minoring in EECS,
+    and was an exchange student at
+    <a href="https://illinois.edu/" target="_blank">UIUC</a>,
+    majoring in Electrical and Computer Engineering.
   </p>
 
+  <p>
+    My research interests include bioelectronics, wearable medical devices, flexible electronics, and AI-enabled biomedical devices.
+    My research journey began at ShanghaiTech University,
+    where I was advised by
+    <a href="https://xiong-group.com/" target="_blank">Prof. Ze Xiong</a>.
+    I also had the opportunity to work with
+    <a href="导师主页链接" target="_blank">Prof. Haisong Lin</a>
+    at Westlake University.
+    I am especially interested in developing low-cost, high-resolution, and customizable biomedical systems for human-machine interaction and healthcare applications.
+  </p>
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
