@@ -1,9 +1,9 @@
 primary_name: "Siyuan Chen"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Siyuan Chen"
 
 positions:
-- name: Undergraduate Student-Year3
+- name: Undergraduate Student
 - name: ShanghaiTech University/ University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
