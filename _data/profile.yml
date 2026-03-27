@@ -10,7 +10,7 @@ positions:
 
 email: "scchen6@illinois.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: "SYChenwsirene"
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -25,9 +25,23 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    <p>
+I'm currently a senior undergraduate student at 
+<a href="https://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>,
+majoring in Material Science and Engineering, minoring in EECS,
+and was an exchange student at 
+<a href="https://illinois.edu/" target="_blank">UIUC</a>, majoring in Electrical and Computer Engineering.
+</p>
+
+<p>
+My research interests include bioelectronics, wearable medical devices, flexible electronics, and AI-enabled biomedical devices. 
+My research journey began at ShanghaiTech University, 
+where I was advised by 
+<a href="https://xiong-group.com/" target="_blank">Prof. Ze Xiong</a>. 
+I also had the opportunity to work with 
+<a href="导师主页链接" target="_blank">Prof. Haisong Lin</a> at Westlake University. 
+I am especially interested in developing low-cost, high-resolution, and customizable biomedical systems for human-machine interaction and healthcare applications.
+</p>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
