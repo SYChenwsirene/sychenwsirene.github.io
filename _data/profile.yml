@@ -43,7 +43,7 @@ short_bio: |
   </p>
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Shot at Hollywood, Los Angeles, CA.
 
 education:
 - name: University of Illinois at Urbana-Champaign
@@ -51,7 +51,7 @@ education:
   position: >- 
     Department of Electrical and Computer Engineering <br/>
     Exchange Student
-  date: Sep. 2024 - present
+  date: Jan. 2026 - May. 2026
 - name: ShanghaiTech University
   logo: /assets/images/badges/PKU_red.png
   position: B.S. in Material Science and Engineering, Minor in Electrical Engineering and Computer Science
